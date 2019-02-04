@@ -23,3 +23,14 @@ The second page which you will be directed to aoutomaticlly represents the mapVi
 
 
 If you press on the annotation you will be directed to album window, where you see images from the annotation where placed, if you press on "new collesction" button a new album from the same place will appear:
+
+<img width="321" alt="photo" src="https://user-images.githubusercontent.com/46728892/52217853-607f0800-28aa-11e9-8444-a88e87e0472f.png">
+
+# Libraries and APIs used:
+1-UIKit
+2-MapKit
+3-CoreData
+4-Foundation
+5-Flicker API
+# Build and run 
+To build and run the app I used iPhone XR - 12.1, Xcode verion 10.1 and swift verion 4.2 .
