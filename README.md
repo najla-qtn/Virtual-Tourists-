@@ -27,10 +27,12 @@ If you press on the annotation you will be directed to album window, where you s
 <img width="321" alt="photo" src="https://user-images.githubusercontent.com/46728892/52217853-607f0800-28aa-11e9-8444-a88e87e0472f.png">
 
 # Libraries and APIs used:
-1-UIKit "\n"
-2-MapKit \n
-3-CoreData \n
-4-Foundation \n
-5-Flicker API \n
+1-UIKit <br />
+2-MapKit <br />
+3-CoreData <br />
+4-Foundation <br />
+5-Flicker API <br />
+
+
 # Build and run 
 To build and run the app I used iPhone XR - 12.1, Xcode verion 10.1 and swift verion 4.2 .
